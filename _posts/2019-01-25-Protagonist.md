@@ -7,7 +7,7 @@ tags: [game,unity,protagonist,gdd,desktop]
 comments: false
 ---
 <center>
-<div markdown="0"><a href="https://play.google.com/store/apps/details?id=com.gamedesignuw.Collier&hl=en" class="btn btn-success"> App Download</a>     <a href="https://github.com/chaendizzle/Collier" class="btn btn-warning">GitHub</a>     <a href="https://devpost.com/software/collier" class="btn btn-danger">Devpost</a></div>
+<div markdown="0"><a href="https://github.com/mannnnnn/protagonist-demo" class="btn btn-success">Download</a>     <a href="https://github.com/mannnnnn/Protagonist-GDD" class="btn btn-warning">GitHub</a>     <a href="http://gamedesignuw.com/projects/protagonist/" class="btn btn-danger">GDD Paget</a></div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=kzXgR4KvqnA" frameborder="0"> </iframe>
 
