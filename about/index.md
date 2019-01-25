@@ -9,8 +9,8 @@ comments: false
 <center>That's real neato.</center>
 
 ## Features
-<div markdown="0"><a href="#" class="btn btn-success">
-[live version of Moon](http://taylantatli.github.io/Moon)
+<div markdown="0"><a href="https://mannnnnn.github.io/markdown-syntax/#" class="btn btn-success">
+Syntax!
 </a></div>
 <div markdown="0"><a href="#" class="btn btn-warning">Warning Button</a></div>
 <div markdown="0"><a href="#" class="btn btn-danger">Danger Button</a></div>
