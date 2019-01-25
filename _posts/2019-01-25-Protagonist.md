@@ -9,7 +9,7 @@ comments: false
 <center>
 <div markdown="0"><a href="https://github.com/mannnnnn/protagonist-demo" class="btn btn-success">Download</a>     <a href="https://github.com/mannnnnn/Protagonist-GDD" class="btn btn-warning">GitHub</a>     <a href="http://gamedesignuw.com/projects/protagonist/" class="btn btn-danger">GDD Paget</a></div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=kzXgR4KvqnA" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kzXgR4KvqnA" frameborder="0"> </iframe>
 
 </center>
 ### Summary
