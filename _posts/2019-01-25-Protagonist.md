@@ -13,29 +13,49 @@ comments: false
 
 </center>
 ### Summary
-Published to the Google Play Store in Dec 2018, Built in 24 hours for the 2018 MadHacks Competition. Winner of the Judge's Choice award for the event.
-
-Play as the Collier, a sword-wielding dog on a mission to free a village from demons and monsters!
-
-Jump between walls using flick motion-controls, crushing your enemies and avoiding perilous traps along the way. Make it to the bottom of each mountain, and you'll receive a score based on your performance throughout the level.
+Protagonist is a puzzle-based RPG which takes place in the world of a disused, glitch-ridden video game. Focused on charm and humor, the game is light-hearted and takes a comical approach to exploring the wild, broken-state game in which the characters reside.
 
 ### Screenshots
 
 {% capture images %}
-	https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/722/471/datas/gallery.jpg
-    https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/722/432/datas/gallery.jpg
-    https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/722/469/datas/gallery.jpg
+	http://gamedesignuw.com/wp-content/uploads/2018/09/protagonistHands.png
+    http://gamedesignuw.com/wp-content/uploads/2017/11/protagonistDemo.png
+    http://gamedesignuw.com/wp-content/uploads/2018/09/protagonistBook.png
 {% endcapture %}
 {% include gallery images=images caption="Collier Gameplay" cols=3 %}
+### Gameplay
+There are four main routes through the game, dependent on the player’s initial actions and how they interact with the world around them. Each route provides a deviant story and puzzles that play into the preferred style of the user (ex. Looking for stat boosts in the initial map unlocks a route that powers up the user faster and plays more towards the impulsive, cut-to-the-chase style story. Whereas stalling and completing every optional puzzle unlocks a more lore-driven route that rewards ingenuity and development.)
+
+The main puzzle/combat system encourages player creativity with a spell system based off stringing together letters into words to form magical attacks. This mechanic appears frequently, although tweaked slightly dependent on the scenario to create new puzzles and challenges while providing the player with a familiar set of tools.
 
 ### Development Information
+Protagonist was developed between Fall 2016 - Fall 2018 by members of the UW-Madison Game Design & Development Club. The team consisted of over 40 members for concept and design, with about 5-10 consistent members per school semester. The project and pitch was led by Savannah Mann through her freshmen to junior years in college.
 
-The bulk of coding was done by Evans Chen and Skylyn Worzala, with concept, outline, art, and code polish done by Savannah Mann. The project was planned for an developed at the UW-Madison hosted hackathon, MadHacks, in Fall 2018. Initial planning for the project began 3 weeks earlier, with concept art sketches and mechanics discussed before entering the competition. Over the course of 24 hours, the entire game (and all assets and animations) was made and tested. After placing in the event, the app was then refined for release, and put out on the Google Play store in Dec 2018 with 5 levels available to players.
+#### Developers
+* Savannah Mann - Concept & Design, Code, Pixel Art & Animations, Map Design, Dialouge, Story Progression, Character Speech, UI Element Design, Team Management, Music, Puzzle Design, etc.
+* Evans Chen - Lead Coder and Engine Developer, Advising, Dialog Parsing & Additional Tool Design
+* Mary Xu - Pixel Art & Animations
+* Evan Newquist - Puzzle Design, Mechanic Design
+* Kaitlyn Brayer - Character Lineart & Design, Background Lineart Design
+* Richard Wang - Item Descriptions, Story Development
 
-#### Software Used: 
+#### Special Thanks To: 
+* Rose Klien - Intro Cutscene Dialogue, Character Design, Mechanic Design
+* Lyn Worzalla - Mechanic Design
+* Cindy Prentice - Character Design
+* Adikan Weiring - Gameplay Advisor
+* Faelan Shrader - Initial Concept, Trimuram Font Concept
+* Amy Nyugen - Music, Greek Mythology Consultant
 
-***Engine:*** Unity (C#)
+And the many other members who have come and gone from the club. Thank you all for your design contributions, and if you wish to be accreditted to the project on this page, please contact Savannah Mann.
 
-***Art:*** Piskel (Pixel Art Editor, Browser-based, Free)
+***[DEMO] Engine:*** GameMaker (GameMaker Script)
+***[PORTED]Engine:*** Unity (C#)
+***Art (Pixel Animation):*** Piskel (Pixel Art Editor, Browser-based, Free)
+***Art (Pixel Static Images):*** MediBang Pro (Free)
+***Art (Lineart):*** Photoshop
+***Music (MIDI):*** MuseScore2
+***Music (Audio Engineeriing):*** Protools 8
+***Music (8-Bit):*** GSXCC
 
 
