@@ -6,19 +6,15 @@ date: 2016-03-21
 comments: false
 ---
     
-<center> Savannah Mann is a Computer Science major from Madison, WI.</center>
+<center>That's real neato.</center>
 
 ## Features
-* [live version of Moon](http://taylantatli.github.io/Moon){: .btn}
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+<div markdown="0"><a href="#" class="btn btn-success">
+[live version of Moon](http://taylantatli.github.io/Moon)
+</a></div>
+<div markdown="0"><a href="#" class="btn btn-warning">Warning Button</a></div>
+<div markdown="0"><a href="#" class="btn btn-danger">Danger Button</a></div>
+<div markdown="0"><a href="#" class="btn btn-info">Info Button</a></div>
 
 ## Preview
 
