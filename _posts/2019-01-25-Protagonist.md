@@ -22,7 +22,7 @@ Protagonist is a puzzle-based RPG which takes place in the world of a disused, g
     http://gamedesignuw.com/wp-content/uploads/2017/11/protagonistDemo.png
     http://gamedesignuw.com/wp-content/uploads/2018/09/protagonistBook.png
 {% endcapture %}
-{% include gallery images=images caption="Collier Gameplay" cols=3 %}
+{% include gallery images=images caption="" cols=3 %}
 ### Gameplay
 There are four main routes through the game, dependent on the player’s initial actions and how they interact with the world around them. Each route provides a deviant story and puzzles that play into the preferred style of the user (ex. Looking for stat boosts in the initial map unlocks a route that powers up the user faster and plays more towards the impulsive, cut-to-the-chase style story. Whereas stalling and completing every optional puzzle unlocks a more lore-driven route that rewards ingenuity and development.)
 
@@ -52,7 +52,7 @@ And the many other members who have come and gone from the club. Thank you all f
 
 #### Software: 
 * ***[DEMO] Engine:*** GameMaker (GameMaker Script)
-* ***[PORTED]Engine:*** Unity (C#)
+* ***[PORTED] Engine:*** Unity (C#)
 * ***Art (Pixel Animation):*** Piskel (Pixel Art Editor, Browser-based, Free)
 * ***Art (Pixel Static Images):*** MediBang Pro (Free)
 * ***Art (Lineart):*** Photoshop
