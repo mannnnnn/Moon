@@ -49,13 +49,15 @@ Protagonist was developed between Fall 2016 - Fall 2018 by members of the UW-Mad
 
 And the many other members who have come and gone from the club. Thank you all for your design contributions, and if you wish to be accreditted to the project on this page, please contact Savannah Mann.
 
-***[DEMO] Engine:*** GameMaker (GameMaker Script)
-***[PORTED]Engine:*** Unity (C#)
-***Art (Pixel Animation):*** Piskel (Pixel Art Editor, Browser-based, Free)
-***Art (Pixel Static Images):*** MediBang Pro (Free)
-***Art (Lineart):*** Photoshop
-***Music (MIDI):*** MuseScore2
-***Music (Audio Engineeriing):*** Protools 8
-***Music (8-Bit):*** GSXCC
+
+#### Software: 
+* ***[DEMO] Engine:*** GameMaker (GameMaker Script)
+* ***[PORTED]Engine:*** Unity (C#)
+* ***Art (Pixel Animation):*** Piskel (Pixel Art Editor, Browser-based, Free)
+* ***Art (Pixel Static Images):*** MediBang Pro (Free)
+* ***Art (Lineart):*** Photoshop
+* ***Music (MIDI):*** MuseScore2
+* ***Music (Audio Engineeriing):*** Protools 8
+* ***Music (8-Bit):*** GSXCC
 
 
