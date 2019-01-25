@@ -9,7 +9,7 @@ comments: false
 <center>
 <div markdown="0"><a href="https://play.google.com/store/apps/details?id=com.gamedesignuw.Collier&hl=en" class="btn btn-success"> App Download</a>     <a href="https://github.com/chaendizzle/Collier" class="btn btn-warning">GitHub</a>     <a href="https://devpost.com/software/collier" class="btn btn-danger">Devpost</a></div>
 
-<iframe width="560" height="315" src="https://youtu.be/kzXgR4KvqnA" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=kzXgR4KvqnA" frameborder="0"> </iframe>
 
 </center>
 ### Summary
