@@ -6,10 +6,10 @@ date: 2016-03-21
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>AAAAAAA</b></a> is a minimal, one column jekyll theme.</center>
+<center> Savannah Mann is a Computer Science major from Madison, WI.</center>
 
 ## Features
-* Minimal, you can focus on your content
+* [live version of Moon](http://taylantatli.github.io/Moon){: .btn}
 * Responsive
 * Disqus integration
 * Syntax highlighting
@@ -28,10 +28,8 @@ comments: false
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
 ## Getting Started
 
 To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
       
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+[Install Moon](https://github.com/TaylanTatli/Moon)
