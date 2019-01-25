@@ -1,16 +1,17 @@
 ---
 layout: post
 title: "Protagonist"
-date: 2019-01-25
-excerpt: "Puzzle-Based RPG built around puns and anagrams."
+date: 2016-8-12
+excerpt: "Puzzle-based RPG with anagram shenanigans"
 tags: [game,unity,protagonist,gdd,desktop]
 comments: false
 ---
-{% capture images %}
-    https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/722/457/datas/gallery.jpg
-{% endcapture %}
+<center>
+<div markdown="0"><a href="https://play.google.com/store/apps/details?id=com.gamedesignuw.Collier&hl=en" class="btn btn-success"> App Download</a>     <a href="https://github.com/chaendizzle/Collier" class="btn btn-warning">GitHub</a>     <a href="https://devpost.com/software/collier" class="btn btn-danger">Devpost</a></div>
 
-{% include gallery images=images caption="" cols=1 %}
+<iframe width="560" height="315" src="https://youtu.be/kzXgR4KvqnA" frameborder="0"> </iframe>
+
+</center>
 ### Summary
 Published to the Google Play Store in Dec 2018, Built in 24 hours for the 2018 MadHacks Competition. Winner of the Judge's Choice award for the event.
 
