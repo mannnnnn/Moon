@@ -6,15 +6,11 @@ date: 2016-03-21
 comments: false
 ---
     
-<center>That's real neato.</center>
+<center>That's real neato.
 
-## Features
-<div markdown="0"><a href="https://mannnnnn.github.io/markdown-syntax/#" class="btn btn-success">
-Syntax!
-</a></div>
-<div markdown="0"><a href="#" class="btn btn-warning">Warning Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-danger">Danger Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-info">Info Button</a></div>
+## Featured Games
+<div markdown="0"><a href="https://mannnnnn.github.io/markdown-syntax/#" class="btn btn-success"> TFBM</a></div><div markdown="0"><a href="#" class="btn btn-warning">Collier</a></div><div markdown="0"><a href="#" class="btn btn-danger">Protagonist</a></div><div markdown="0"><a href="#" class="btn btn-info">Stackity</a></div>
+</center>
 
 ## Preview
 
