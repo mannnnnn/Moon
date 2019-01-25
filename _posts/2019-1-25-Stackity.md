@@ -13,23 +13,21 @@ comments: false
 
 </center>
 ### Summary
-Unity mobile game, and Madhacks2018 Mini Hackathon winner. Simple game where tapping on the screen spawns one of fifty unique items to build a tower with.
+Built in 12 hours for the MadHacks Mini competition, taking home 1st Place.
+
+The objective of Stackity is to get Zipper the Raccoon as high as possible by clicking on the screen to spawn trash. There are 6 different types of trash, each corresponding to a color (Orange, Blue, Purple, Red, Green, Yellow), if four trash objects of the same type touch, they’ll disappear. Watch as Zipper gets higher and higher by climbing the weird and whacky items that pile up and enjoy the puns!
 
 ### Screenshots
 
 {% capture images %}
-	http://gamedesignuw.com/wp-content/uploads/2018/09/protagonistHands.png
-    http://gamedesignuw.com/wp-content/uploads/2017/11/protagonistDemo.png
-    http://gamedesignuw.com/wp-content/uploads/2018/09/protagonistBook.png
+	http://gamedesignuw.com/wp-content/uploads/2018/09/gallery2.jpg
+    http://gamedesignuw.com/wp-content/uploads/2018/09/gallery1.jpg
+    https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/625/853/datas/gallery.jpg
 {% endcapture %}
 {% include gallery images=images caption="" cols=3 %}
-### Gameplay
-There are four main routes through the game, dependent on the player’s initial actions and how they interact with the world around them. Each route provides a deviant story and puzzles that play into the preferred style of the user (ex. Looking for stat boosts in the initial map unlocks a route that powers up the user faster and plays more towards the impulsive, cut-to-the-chase style story. Whereas stalling and completing every optional puzzle unlocks a more lore-driven route that rewards ingenuity and development.)
-
-The main puzzle/combat system encourages player creativity with a spell system based off stringing together letters into words to form magical attacks. This mechanic appears frequently, although tweaked slightly dependent on the scenario to create new puzzles and challenges while providing the player with a familiar set of tools.
 
 ### Development Information
-Protagonist was developed between Fall 2016 - Fall 2018 by members of the UW-Madison Game Design & Development Club. The team consisted of over 40 members for concept and design, with about 5-10 consistent members per school semester. The project and pitch was led by Savannah Mann through her freshmen to junior years in college.
+Stackity was developed for the MadHacks2018 Mini Hack competition, and took home 1st place in the 12 hour competition. This game was the first "major" Unity project that Savannah, Evans, and Mary had worked on, and served as a test for determining whether Protagonist would be viable when ported to Unity. During the competition, Evans handled a majority of the code's base, and Mary designed fifty unique items to be placed in game.
 
 #### Developers
 * Savannah Mann - Concept & Design, Pixel Animation, Writing for 50 Unique Puns
