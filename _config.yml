@@ -1,8 +1,8 @@
 # Site
-title:              TFBM Upcoming RPG
-bio:                'Started in December of 2018.'
-description:        "TFBM is a Unity game in development by Savannah Mann. More details to be released."
-reading_time:       true
+title:              Savannah Mann's Projects
+bio:                'Currently working on TFBM'
+description:        "A site to behold."
+reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/alm-alpe-alpine-meadows-272181.jpg'
