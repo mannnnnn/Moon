@@ -32,32 +32,14 @@ The main puzzle/combat system encourages player creativity with a spell system b
 Protagonist was developed between Fall 2016 - Fall 2018 by members of the UW-Madison Game Design & Development Club. The team consisted of over 40 members for concept and design, with about 5-10 consistent members per school semester. The project and pitch was led by Savannah Mann through her freshmen to junior years in college.
 
 #### Developers
-* Savannah Mann - Concept & Design, Code, Pixel Art & Animations, Map Design, Dialouge, Story Progression, Character Speech, UI Element Design, Team Management, Music, Puzzle Design, etc.
-* Evans Chen - Lead Coder and Engine Developer, Advising, Dialog Parsing & Additional Tool Design
-* Mary Xu - Pixel Art & Animations
-* Evan Newquist - Puzzle Design, Mechanic Design
-* Kaitlyn Brayer - Character Lineart & Design, Background Lineart Design
-* Richard Wang - Item Descriptions, Story Development
-
-#### Special Thanks To: 
-* Rose Klien - Intro Cutscene Dialogue, Character Design, Mechanic Design
-* Lyn Worzalla - Mechanic Design
-* Cindy Prentice - Character Design
-* Adikan Weiring - Gameplay Advisor
-* Faelan Shrader - Initial Concept, Trimuram Font Concept
-* Amy Nyugen - Music, Greek Mythology Consultant
-
-And the many other members who have come and gone from the club. Thank you all for your design contributions, and if you wish to be accreditted to the project on this page, please contact Savannah Mann.
-
+* Savannah Mann - Concept & Design, Pixel Animation, Writing for 50 Unique Puns
+* Evans Chen - Project Coder
+* Mary Xu - Art for 50 Unique Droppable Items
 
 #### Software: 
-* ***[DEMO] Engine:*** GameMaker (GameMaker Script)
-* ***[PORTED] Engine:*** Unity (C#)
-* ***Art (Pixel Animation):*** Piskel (Pixel Art Editor, Browser-based, Free)
-* ***Art (Pixel Static Images):*** MediBang Pro (Free)
-* ***Art (Lineart):*** Photoshop
+* ***Engine:*** Unity (C#)
+* ***Art:*** Piskel (Pixel Art Editor, Browser-based, Free)
 * ***Music (MIDI):*** MuseScore2
-* ***Music (Audio Engineeriing):*** Protools 8
 * ***Music (8-Bit):*** GSXCC
 
 
