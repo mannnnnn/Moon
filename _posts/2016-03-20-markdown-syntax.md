@@ -87,7 +87,7 @@ HTML and CSS are our tools. Mauris a ante. Suspendisse quam sem, consequat at, c
 Make any link standout more when applying the `.btn` class.
 
 {% highlight html %}
-<a href="#" class="btn btn-success">Success Button</a>
+<a href="https://mannnnnn.github.io/projects/" class="btn btn-success">Success Button</a>
 {% endhighlight %}
 
 <div markdown="0"><a href="#" class="btn">Primary Button</a></div>
