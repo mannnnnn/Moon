@@ -7,7 +7,7 @@ tags: [game,unity,stackity,hackathon,app]
 comments: false
 ---
 <center>
-<div markdown="0"><a href="https://devpost.com/software/stackity-coon" class="btn btn-success">Devpost</a>     <a href="https://github.com/mannnnnn/Stackity-Mobile" class="btn btn-warning">GitHub</a>     <a href="http://gamedesignuw.com/projects/stackity-game-jam/" class="btn btn-danger">GDD Paget</a></div>
+<div markdown="0"><a href="https://devpost.com/software/stackity-coon" class="btn btn-success">Devpost</a>     <a href="https://github.com/mannnnnn/Stackity-Mobile" class="btn btn-warning">GitHub</a>     <a href="http://gamedesignuw.com/projects/stackity-game-jam/" class="btn btn-danger">GDD Page</a></div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HWBD0V4jHWk" frameborder="0"> </iframe>
 
