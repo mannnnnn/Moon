@@ -1,27 +1,21 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About Savannah
+tags: [about]
+date: 2019-02-5
 comments: false
 ---
     
 <center>That's real neato.
-
-## Featured Games
-<div markdown="0"><a href="https://mannnnnn.github.io/markdown-syntax/#" class="btn btn-success"> TFBM</a></div><div markdown="0">   <a href="#" class="btn btn-warning">Collier</a></div><div markdown="0">   <a href="#" class="btn btn-danger">Protagonist</a></div><div markdown="0"><a href="#" class="btn btn-info">Stackity</a></div>
-</center>
-
 ## Preview
 
 {% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
+    https://lh4.googleusercontent.com/ejYGdLw_7hIMwu5y_f9yPyFtCUUPxWDpd5Q4JF3mMjSYR9-HHH-XfmKtINb3PggQawmWVsGzt2sAngulepZW44K35vZNu5zwZIVP92ZxZM2Bjx1pJ3k=w472
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+{% include gallery images=images caption="" cols=1 %}
+Savannah Mann grew up in Madison, and is an active member in teh community, playing in several local bands and orchestras as well as getting involved in game development in-town. 
+</center>
 
-## Getting Started
+## Featured Games
+<div markdown="0"><a href="https://mannnnnn.github.io/markdown-syntax/#" class="btn btn-success"> TFBM</a></div><div markdown="0">   <a href="#" class="btn btn-warning">Collier</a></div><div markdown="0">   <a href="#" class="btn btn-danger">Protagonist</a></div><div markdown="0"><a href="#" class="btn btn-info">Stackity</a></div>
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon)
