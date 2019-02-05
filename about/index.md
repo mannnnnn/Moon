@@ -6,8 +6,8 @@ date: 2019-02-5
 comments: false
 ---
     
-<center>That's real neato.
-## Preview
+<center>
+## Savannah Mann
 
 {% capture images %}
     https://lh4.googleusercontent.com/ejYGdLw_7hIMwu5y_f9yPyFtCUUPxWDpd5Q4JF3mMjSYR9-HHH-XfmKtINb3PggQawmWVsGzt2sAngulepZW44K35vZNu5zwZIVP92ZxZM2Bjx1pJ3k=w472
