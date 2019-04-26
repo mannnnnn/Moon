@@ -6,14 +6,18 @@ excerpt: "An idle mobile game based around collecting and customizing monsters."
 tags: [game,unity,monster,pass]
 comments: false
 ---
+
 <center>
+    
 <div markdown="0"><a href="https://github.com/Dan-Bai/MonsterPass" class="btn btn-success"> GitHub</a>
 
 {% capture images %}
     https://lh3.googleusercontent.com/pvUjQFw5DvhzewN8KFAlhiXZkQmqtC51Q0qZ8hHl1DIqitMrWr2Y9ukd8K7nyM95yIY=w5120-h2660-rw
 {% endcapture %}
 {% include gallery images=images caption="" cols=1 %}
+
 </center>
+
 ### Summary
 Built for the 2019 Spring Software Engineering course at UW-Madison. App pitched by Savannah Mann.
 
