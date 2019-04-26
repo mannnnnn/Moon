@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "2019 Game Challenge (April)"
+title: "Scavenger Stuffs"
 date: 2019-4-26
-excerpt: "A mobile game based around scanning pendants against hidden stuffed animals to collect characters in-game."
+excerpt: "2019 Game Challenge (April) A mobile game based around scanning pendants against hidden stuffed animals to collect characters in-game."
 tags: [game,unity,scavenger,stuffs,rfid]
 comments: false
 ---
