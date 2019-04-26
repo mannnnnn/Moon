@@ -34,8 +34,10 @@ Once a player finds a location which distributes pendants (Decorative tags which
 
 {% capture images %}
 	https://lh3.googleusercontent.com/X2rZwjtRTDNQGdrph67-rN4QIb76Kwhcafso6XAPVZ6SfL7KSr9e1UqZ9cMWWcMBgYhE=w5120-h2660-rw
+    https://lh4.googleusercontent.com/si3RjONX4f6OJNt5zCyzcdSSrehl73c3uvD0jwNg0w2NIU6pOKyYMe9qxeahTT0ZuHvrGJwxR0LrSvKec2NlurlXsg-9zYJbYWCQA8M0xv_ky9dCsTS4=w271
+    https://lh4.googleusercontent.com/Zo7WckQivh5BhPvIR3GEUJkoDGkh-Yl8CR1hr1d68bD6uwWfT5cc346KqRbbCUFZFMIKy34eUNccsklNHVnYdnGVA6nK7aLwZClSXkiNdpkB4ruAc5M=w271
 {% endcapture %}
-{% include gallery images=images caption="Scavenger Stuffs Gameplay" cols=3 %}
+{% include gallery images=images caption="Scavenger Stuffs Gameplay & Components" cols=3 %}
 
 ### Development Information
 
