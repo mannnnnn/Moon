@@ -7,12 +7,16 @@ tags: [game,unity,scavenger,stuffs,rfid]
 comments: false
 ---
 
-<center><div markdown="0"><a href="https://play.google.com/store/apps/details?id=com.Lightmoon.ScavengerStuffs" class="btn btn-success"> App Download</a>
+<center>
+
+<div markdown="0"><a href="https://play.google.com/store/apps/details?id=com.Lightmoon.ScavengerStuffs" class="btn btn-success"> App Download</a>
 
 {% capture images %}
     https://lh3.googleusercontent.com/pvUjQFw5DvhzewN8KFAlhiXZkQmqtC51Q0qZ8hHl1DIqitMrWr2Y9ukd8K7nyM95yIY=w5120-h2660-rw
 {% endcapture %}
-{% include gallery images=images caption="" cols=1 %}</center>
+{% include gallery images=images caption="" cols=1 %}
+
+</center>
 
 ### Summary
 
