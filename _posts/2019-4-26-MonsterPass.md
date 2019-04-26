@@ -29,19 +29,22 @@ Monster Pass is a free to play idle mobile app centered around customizing and t
 
 MonsterPass was developed in-class using a strict waterfall method to build it. Every component of the game was mapped in advance, and the app not only has extensive documentation but clearly outlined updates and iterations depicting the process which it took to make it. Most of the members on the team had no experience with Unity prior to this project, illustrating just how far the team came as a whole to make this app a reality.
 
-
-
 #### Team:
+
 Dan Bai (Unity Backend/Frontend, Gamesparks Backend)
 Ben (Unity Backend/Frontend)
 Brandon Pupp (GameSparks Backend)
 Savannah Mann (GameSparks Frontend, Client Communicator)
 Evan Newquist (GameSparks Backend)
+Xuanlin Yan (UI Mocks & Implementation)
 
+#### Mock Client:
+
+Filament Games
 
 #### Software Used: 
 
-***Mobile Engine & Dummy Engine:*** Unity
-***Mobile Backend:*** GameSparks
-***Stuffed Animal Internals:*** RFID-522 Reader/Writer, RaspberryPi0W, Raspbian OS, Portable Charger
-***Pendants:*** RFID Tags wrapped in baking clay
+***Engine:*** Unity
+***Art:*** Medibang Pro
+***Unity Plugins:*** Anima2D
+***Backend Server:*** GameSparks
