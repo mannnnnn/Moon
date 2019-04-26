@@ -13,8 +13,11 @@ comments: false
     https://lh3.googleusercontent.com/pvUjQFw5DvhzewN8KFAlhiXZkQmqtC51Q0qZ8hHl1DIqitMrWr2Y9ukd8K7nyM95yIY=w5120-h2660-rw
 {% endcapture %}
 {% include gallery images=images caption="" cols=1 %}
+
 </center>
+
 ### Summary
+
 Built as part of the Lightmoon 2019 Game-A-Month challenge, and for the Wearable Technology course at UW-Madison. 
 
 Scavenger Stuffs’ goal is to bring wearable technology down to a more accessible level, and to help get everyone exploring!
