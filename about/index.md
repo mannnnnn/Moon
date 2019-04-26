@@ -16,8 +16,9 @@ comments: false
 Savannah Mann grew up in Madison, and is an active member in the community, playing in several local bands and orchestras as well as getting involved in game development in-town. 
 </center>
 
-## Featured Games
+## Game List
 <center>
+<div markdown="0"><a href="https://mannnnnn.github.io/TFBM/" class="btn btn-success"> TFBM</a></div><div markdown="0"><a href="https://mannnnnn.github.io/Collier/" class="btn btn-warning">Collier</a></div><div markdown="0"><a href="https://mannnnnn.github.io/Protagonist/" class="btn btn-danger">Protagonist</a></div><div markdown="0"><a href="https://mannnnnn.github.io/Stackity/" class="btn btn-info">Stackity</a></div>
 <div markdown="0"><a href="https://mannnnnn.github.io/markdown-syntax/#" class="btn btn-success"> TFBM</a></div><div markdown="0"><a href="#" class="btn btn-warning">Collier</a></div><div markdown="0"><a href="#" class="btn btn-danger">Protagonist</a></div><div markdown="0"><a href="#" class="btn btn-info">Stackity</a></div>
 </center>
 
